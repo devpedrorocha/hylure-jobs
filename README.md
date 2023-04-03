@@ -1,6 +1,6 @@
 # hyrule-jobs
 
-This template should help get you started developing with Vue 3 in Vite.
+Neste projeto foi criado um blog com sistema de filtro, com o objetivo de aprender e desenvolver minha habilidades com TypeScript e Vue 3.
 
 ## Recommended IDE Setup
 
