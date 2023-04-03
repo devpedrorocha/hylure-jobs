@@ -5,7 +5,7 @@
 
 Neste projeto foi criado um blog com sistema de filtro, com o objetivo de aprender e desenvolver minha habilidades com TypeScript, a partir da criação de interfaces e tipos específicos, e Vue 3. Foi desenvolvido a partir de um curso gratuito.
 
-## Layout web
+## Layout
 ![Web 1](https://github.com/devpedrorocha/hylure-jobs/blob/main/src/assets/screenshot-home.png)
 
 
