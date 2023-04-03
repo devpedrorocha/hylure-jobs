@@ -1,14 +1,12 @@
 
-# Hyrule Jobs
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devpedrorocha/controle-academico/blob/main/LICENCE) 
+# Hyrule Jobs 
 
 # Sobre o projeto
 
-Neste projeto foi criado um blog com sistema de filtro, com o objetivo de aprender e desenvolver minha habilidades com TypeScript e Vue 3.
+Neste projeto foi criado um blog com sistema de filtro, com o objetivo de aprender e desenvolver minha habilidades com TypeScript, a partir da criação de interfaces e tipos específicos, e Vue 3. Foi desenvolvido a partir de um curso gratuito.
 
 ## Layout web
-![Web 1](https://github.com/devpedrorocha/controle-academico/blob/main/controle-academico-front/src/assets/screenshot-admin-home-page.png)
-
+![Web 1](https://github.com/devpedrorocha/hylure-jobs/blob/main/src/assets/screenshot-home.png)
 
 
 ## Front end
@@ -16,7 +14,7 @@ Neste projeto foi criado um blog com sistema de filtro, com o objetivo de aprend
 - CSS3 para a estilização e layout ; 
 - JavaScript ES6 para a lógica e interação do usuário ; 
 - Vue.js 3 para a criação de componentes e gerenciamento do estado da aplicação ;
-- Typescript para o desenvolvimento mais seguro do código ; 
+- Typescript para garantir a prevenção de erros e o desenvolvimento mais seguro do código ; 
 
 # Como executar o projeto
 
@@ -25,10 +23,7 @@ Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
-git clone https://github.com/devpedrorocha/controle-academico.git
-
-# entrar na pasta do projeto front end web
-cd controle-academico-front
+git clone https://github.com/devpedrorocha/hylure-jobs.git
 
 # instalar dependências
 yarn install
