@@ -1,52 +1,45 @@
-# hyrule-jobs
+
+# Hyrule Jobs
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devpedrorocha/controle-academico/blob/main/LICENCE) 
+
+# Sobre o projeto
 
 Neste projeto foi criado um blog com sistema de filtro, com o objetivo de aprender e desenvolver minha habilidades com TypeScript e Vue 3.
 
-## Recommended IDE Setup
+## Layout web
+![Web 1](https://github.com/devpedrorocha/controle-academico/blob/main/controle-academico-front/src/assets/screenshot-admin-home-page.png)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
-## Type Support for `.vue` Imports in TS
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin) to make the TypeScript language service aware of `.vue` types.
+## Front end
+- HTML5 para a estruturação do conteúdo ;
+- CSS3 para a estilização e layout ; 
+- JavaScript ES6 para a lógica e interação do usuário ; 
+- Vue.js 3 para a criação de componentes e gerenciamento do estado da aplicação ;
+- Typescript para o desenvolvimento mais seguro do código ; 
 
-If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has also implemented a [Take Over Mode](https://github.com/johnsoncodehk/volar/discussions/471#discussioncomment-1361669) that is more performant. You can enable it by the following steps:
+# Como executar o projeto
 
-1. Disable the built-in TypeScript Extension
-    1) Run `Extensions: Show Built-in Extensions` from VSCode's command palette
-    2) Find `TypeScript and JavaScript Language Features`, right click and select `Disable (Workspace)`
-2. Reload the VSCode window by running `Developer: Reload Window` from the command palette.
+## Front end 
+Pré-requisitos: npm / yarn
 
-## Customize configuration
+```bash
+# clonar repositório
+git clone https://github.com/devpedrorocha/controle-academico.git
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+# entrar na pasta do projeto front end web
+cd controle-academico-front
 
-## Project Setup
+# instalar dependências
+yarn install
 
-```sh
-npm install
+# executar o projeto
+yarn start
 ```
 
-### Compile and Hot-Reload for Development
+# Autor
 
-```sh
-npm run dev
-```
+Pedro Henrique Nascimento Rocha 
 
-### Type-Check, Compile and Minify for Production
+https://www.linkedin.com/in/pedrorocha26/
 
-```sh
-npm run build
-```
-
-### Run Unit Tests with [Vitest](https://vitest.dev/)
-
-```sh
-npm run test:unit
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
